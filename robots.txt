@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiro-cli-dev.github.io/sitemap.xml
