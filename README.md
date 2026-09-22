@@ -20,4 +20,5 @@ Kiro is built for engineers who already work in a large repository and want agen
 
 *This is an independent review page, not affiliated with or endorsed by Kiro or Amazon Web Services; all trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
